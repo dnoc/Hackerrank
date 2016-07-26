@@ -3,4 +3,6 @@ I'm going to use this repo to show recent challenges I complete. Right now I'm a
 Links:
 ```
 https://www.hackerrank.com/challenges/angry-professor
+https://www.hackerrank.com/challenges/qheap1
+
 ```
