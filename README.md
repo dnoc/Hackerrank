@@ -9,4 +9,5 @@ https://www.hackerrank.com/challenges/cut-the-sticks
 https://www.hackerrank.com/challenges/chocolate-feast
 https://www.hackerrank.com/challenges/caesar-cipher-1
 https://www.hackerrank.com/challenges/staircase
+https://www.hackerrank.com/challenges/library-fine
 ```
